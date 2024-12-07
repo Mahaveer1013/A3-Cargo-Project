@@ -144,9 +144,19 @@ Visit `http://127.0.0.1:8000/admin` to access the admin panel.
 
 ### **9. Contact**
 
-For inquiries about this project or collaboration opportunities, please contact:
-Developer: Mahaveer A
-Email: mahaveer30032005@gmail.com
-Profile: https://linktr.ee/mahaveer1013
+- For inquiries about this project or collaboration opportunities, please contact:
+- Developer: Mahaveer A
+- Email: mahaveer30032005@gmail.com
+- Profile: https://linktr.ee/mahaveer1013
+
+- Developer: Mohammed Aashath K
+- Email: aashathpanimalar@gmail.com
+- Profile: 
+
+- Developer: Pradeep M
+- Email: pradeepkrishna140@gmail.com
+- Profile: 
+
+
 
 ---
